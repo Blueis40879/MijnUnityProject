@@ -1,3 +1,1 @@
 # MijnUnityProject
-
-> ![](img/cube.PNG)
